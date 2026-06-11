@@ -1,4 +1,3 @@
-#FarmTwin-AI
 # 🌾 FarmTwin AI - Digital Twin & Smart Farm Intelligence Platform
 
 ## 📌 Overview
